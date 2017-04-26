@@ -1,0 +1,1 @@
+[0426/211039.052:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: 已尝试访问正在退出的过程。  (0xc000010a)
